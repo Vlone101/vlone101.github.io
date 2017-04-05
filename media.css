@@ -1,0 +1,14 @@
+@media (max-width: 800px) {
+   body {
+       height: 100%;
+   }
+    header{
+        width: 100%;
+        line-height: 80px;
+        margin-bottom: 50px;
+    }
+    .social {
+        display: none;
+    }
+
+}
